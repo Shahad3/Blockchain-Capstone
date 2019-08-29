@@ -17,13 +17,6 @@ var veAddress;
 //   };
 
 
-const veri1 = require('Verifier');
-const veriArtifact = require('./../../build/contracts/YourToken.json');
-
-var veri2 = contract(veriArtifact);
-veri2.setProvider(window.web3.currentProvider);
-var veri = await Token.deployed();
-
 var proofs = require('../proofs.js');
 // Test verification with correct proof
 contract('SolnSquareVerifier', accounts => {
