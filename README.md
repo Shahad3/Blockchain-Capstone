@@ -3,7 +3,7 @@
 The capstone will build upon the knowledge you have gained in the course in order to build a decentralized housing product. 
 
 # To test the project
-1) make sure to go inside eth-contract folder "cd eth-contract"
+1) make sure to go inside eth-contracts folder "cd eth-contracts"
 2) write the command "truffle test ./test/<filename>.js"
   
   # Addresses:
