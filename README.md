@@ -11,7 +11,7 @@ The capstone will build upon the knowledge you have gained in the course in orde
   2) OpenSea account2: https://rinkeby.opensea.io/accounts/0xe0e282c26ac85f2af05564cbe7f7fdfad0eff5c6
   3) You can access all abi inside build folder "../build/contracts/Verifier.json"
   4) Verifier addresse : 0xd1A41c93eE356c4818483B8eD462a94C55B2FD6f
-  5) SolnSquareVerifie addresse : 0x267E97354de5bdbb81c2E51E9DfDd9f2F47EC717
+  5) SolnSquareVerifier addresse : 0x267E97354de5bdbb81c2E51E9DfDd9f2F47EC717
 
 
 # Project Resources
